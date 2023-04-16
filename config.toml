@@ -1,9 +1,9 @@
-baseURL = "http://tomasfarias.dev"
+baseURL = "http://gigio.blogtest"
 
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "tomasfarias.dev"
+title = "gigio.blogtest"
 
 theme = "LoveIt"
 
@@ -18,12 +18,12 @@ enableEmoji = true
 
   [params.home.profile]
     enable = true
-    gravatarEmail = "tomas@tomasfarias.dev"
+    gravatarEmail = "gmorganzanetti@hotmail.com"
     social = true
 
   [params.social]
-    GitHub = "tomasfarias"
-    Linkedin = "tomasfarias"
+    GitHub = "GigioMZ"
+    Linkedin = "guillermo-morgan-zanetti"
     Stackoverflow = "3994693/tomas-farias"
 
   [params.search]
@@ -89,6 +89,6 @@ enableEmoji = true
     noClasses = false
 
 [author]
-  name = "Tomás Farías Santana"
-  email = "tomas@tomasfarias.dev"
-  link = "https://tomasfarias.dev"
+  name = "Guillermo Morgan Zanetti"
+  email = "gmorganzanetti@gmail.com"
+  link = "https://github.com/GigioMZ"
